@@ -1,4 +1,4 @@
-# PHP Learning Project
+ PHP Learning Project
 
 A structured, hands‑on repository for learning PHP step by step. Each **lesson** lives in its own numbered folder (e.g., `01-hello-world`, `02-variables`), includes a short README, and practical code you can run locally. The goal is to build real PHP skills through small, focused exercises.
 
